@@ -3,7 +3,7 @@ node_modules/
 
 # Ignore build output
 build/
-dist/
+
 
 # Ignore local development server logs and files
 *.log
